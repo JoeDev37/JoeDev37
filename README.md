@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there! 👋</h1>
 
 <p align="center">
-  I'm Joe, a computer science student who enjoys building things,<br>
-  learning by doing, and messing around with Linux.
+  Hey, I'm Joe, a computer science student who enjoys building things, learning by doing, and messing around with Linux.
 </p>
 
 <p align="center">
@@ -35,9 +34,9 @@ Here are some ideas to get you started:
 ## 🧑‍💻 About Me
 
 - 🎓 Computer science student
-- 💻 Currently learning TypeScript and building projects with it
+- 💻 Learning TypeScript by building projects
 - 🐧 Linux enthusiast
-- 🎮 Interested in game development
+- 🎮 Building small games and learning along the way
 - 🧩 I like learning by actually building things
 
 ## 🛠️ Languages & Tools
@@ -66,9 +65,6 @@ A project for searching quality images <a href="https://joedev37.github.io/The_G
 
 ### 🔐 Password Generator
 A small JavaScript project for generating passwords <a href="https://joedev37.github.io/Password_Generator/">Link</a>.
-
-<!--### 🧠 LeetCode
-My collection of LeetCode practice and problem-solving exercises.-->
 
 ---
 
