@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,phaser,npm,git,github,linux" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phaser/phaser-original.svg" />
+  
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,npm,git,github,linux" />
+  <img src="https://raw.githubusercontent.com/atiyil/phaser/master/phaser-logo-small.png" width="48" height="48" />
 </p>
 
 ## 🚀 Projects
