@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   ·
   <a href="https://x.com/JoeDev_3_7">X / Twitter</a>
   ·
-  <a href="">Discord</a>
+  <a href="https://discord.gg/kuVFscpW9f">Discord</a>
 </p>
 
 ---
@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,phaser,npm,git,github,linux" />
+  <!-- <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,phaser,npm,git,github,linux" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phaser/phaser-original.svg" />
 </p>
 
 ## 🚀 Projects
@@ -85,7 +86,7 @@ programming, Linux, games, and learning can hang out.
   <a href="https://x.com/JoeDev_3_7">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
   </a>
-  <a href="">
+  <a href="https://discord.gg/kuVFscpW9f">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
