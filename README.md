@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center"># Hello, world! 🌎</h1>
 
 <p align="center">
   Hey, I'm Joe, a computer science student who enjoys building things, learning by doing, and messing around with Linux.
