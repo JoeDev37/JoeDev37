@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello, world! 🌎</h1>
+<!-- <h1 align="center">Hello, world! 🌎</h1> -->
 
 <p align="center">
   Hey, I'm Joe, a computer science student who enjoys building things, learning by doing, and messing around with Linux.
+  
+  I like making small projects, experimenting with different ideas, and figuring things out along the way.
 </p>
 
 <p align="center">
