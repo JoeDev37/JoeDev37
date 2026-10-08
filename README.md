@@ -54,11 +54,11 @@ A TypeScript CLI tool I'm building for managing wallpapers on Linux(in progress)
 ### 🎮 Phaser Projects
 A collection of small games I've built while learning Phaser:
 
-- <a href="https://joedev37.github.io/2D-table-tennis/">Pong / Table Tennis</a>
-- <a href="https://joedev37.github.io/BreakOut/">Breakout</a>
-- <a href="https://joedev37.github.io/catchTheThing/">Catch the Thing</a>
+- Pong / Table Tennis <a href="https://joedev37.github.io/2D-table-tennis/">Link</a>
+- Breakout <a href="https://joedev37.github.io/BreakOut/">Link</a>
+- Catch the Thing <a href="https://joedev37.github.io/catchTheThing/">Link</a>
 
-<a href="https://joedev37.github.io/The_Gallery/">### 🖼️ The Gallery</a>
+###  🖼️ The Gallery <a href="https://joedev37.github.io/The_Gallery/">Link</a>
 A project for searching quality images.
 
 ### 🔐 Password Generator
