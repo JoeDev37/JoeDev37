@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 🎮 Building small games and learning along the way
 - 🧩 I like learning by actually building things
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <!-- <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,phaser,npm,git,github,linux" /> -->
@@ -48,34 +48,35 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/atiyil/phaser/master/phaser-logo-small.png" width="48" height="48" />
 </p>
 
-## 🚀 Projects
+## Projects
 
-### 🖼️ set-wall
+### set-wall
 A TypeScript CLI tool I'm building for managing wallpapers on Linux(in progress).
 
-### 🎮 Phaser Projects
+### Phaser Projects
 A collection of small games I've built while learning Phaser:
 
 - Pong / Table Tennis <a href="https://joedev37.github.io/2D-table-tennis/">(Link)</a>
 - Breakout <a href="https://joedev37.github.io/BreakOut/">(Link)</a>
 - Catch the Thing <a href="https://joedev37.github.io/catchTheThing/">(Link)</a>
 
+<!--
 ###  🖼️ The Gallery
 A project for searching quality images <a href="https://joedev37.github.io/The_Gallery/">Link</a>.
 
 ### 🔐 Password Generator
 A small JavaScript project for generating passwords <a href="https://joedev37.github.io/Password_Generator/">Link</a>.
-
+-->
 ---
 
-## 💬 Community
+## Community
 
 I also run a Discord server where developers and people interested in
 programming, Linux, games, and learning can hang out.
 
 ---
 
-## 📫 Find Me
+## Find Me
 
 <p align="center">
   <a href="https://github.com/JoeDev37">
