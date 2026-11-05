@@ -81,12 +81,12 @@ programming, Linux, games, and learning can hang out.
 
 <p align="center">
   <a href="https://github.com/JoeDev37">
-    <img src="https://img.shields.io/badge/GitHub-JoeDev37-cba6f7?style=for-the-badge&logo=github&logoColor=1e1e2e" />
+    <img src="https://img.shields.io/badge/GitHub-JoeDev37-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=313244" />
   </a>
   <a href="https://x.com/JoeDev_3_7">
-    <img src="https://img.shields.io/badge/X-cdd6f4?style=for-the-badge&logo=x&logoColor=1e1e2e" />
+    <img src="https://img.shields.io/badge/X-1e1e2e?style=for-the-badge&logo=x&logoColor=cdd6f4&labelColor=313244" />
   </a>
   <a href="https://discord.gg/kuVFscpW9f">
-    <img src="https://img.shields.io/badge/Discord-89b4fa?style=for-the-badge&logo=discord&logoColor=1e1e2e" />
+    <img src="https://img.shields.io/badge/Discord-1e1e2e?style=for-the-badge&logo=discord&logoColor=89b4fa&labelColor=313244" />
   </a>
 </p>
