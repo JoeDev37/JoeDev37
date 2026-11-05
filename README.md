@@ -80,17 +80,13 @@ programming, Linux, games, and learning can hang out.
 ## Find Me
 
 <p align="center">
-  
   <a href="https://github.com/JoeDev37">
-    <img src="https://img.shields.io/badge/-11111b?style=for-the-badge&logo=github&logoColor=bac2de&logoSize=auto" />
+    <img src="https://img.shields.io/badge/GitHub-JoeDev37-11111b?style=for-the-badge&logo=github&logoColor=bac2de" />
   </a>
-  
   <a href="https://x.com/JoeDev_3_7">
-    <img src="https://img.shields.io/badge/-11111b?style=for-the-badge&logo=x&logoColor=cdd6f4&logoSize=auto" />
+    <img src="https://img.shields.io/badge/X-11111b?style=for-the-badge&logo=x&logoColor=cdd6f4" />
   </a>
-  
   <a href="https://discord.gg/kuVFscpW9f">
-    <img src="https://img.shields.io/badge/-11111b?style=for-the-badge&logo=discord&logoColor=89b4fa&logoSize=auto" />
+    <img src="https://img.shields.io/badge/Discord-11111b?style=for-the-badge&logo=discord&logoColor=89b4fa" />
   </a>
-  
 </p>
